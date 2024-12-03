@@ -6,11 +6,11 @@ This project demonstrates a real-time prediction dashboard using Streamlit, whic
 1. Install Dependencies:
    Install the necessary libraries using the following command:
    pip install streamlit, pandas, scikit-learn, joblib
-2. Run the Streamlit App:
+3. Run the Streamlit App:
    Start the Streamlit app by running:
    streamlit run app.py
 This will launch the dashboard in your web browser.
-3. Outputs:
+4. Outputs:
    Real-time Data Table: Displays the cumulative simulated sales data.
    Line Chart: Shows the predicted sales and units sold in real-time.
 
